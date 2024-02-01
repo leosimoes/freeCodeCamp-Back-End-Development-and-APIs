@@ -1,0 +1,11 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
+  "author": "Leonardo Simões",
+  "description": "freeCodeCamp Project - Package Management with NPM",
+  "keywords": ["freecodecamp", "nodejs", "npm"],
+  "license": "MIT",
+  "dependencies" : {
+    "@freecodecamp/example": "1.1.0"
+  }
+}
