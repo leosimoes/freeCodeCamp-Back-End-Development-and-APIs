@@ -1,0 +1,11 @@
+{
+  "name" : "fcc-mongo-mongoose-challenges",
+  "version": "0.01",
+  "author": "Leonardo Simões",
+  "description": "project with javascript, MongoDB, Mongoose",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^5.11.15"
+  }
+}
